@@ -20,7 +20,7 @@ function App() {
         {false}
         {undefined}
         {true}
-        {num + 39}
+        {num + 34}
         <p style = {{ color: 'green' }}>
           Hello World!
         </p>
